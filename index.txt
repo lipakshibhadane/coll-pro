@@ -1,2 +1,1 @@
-My 2nd git prpo
-This is a Git pr ses.
+my First git Repo
